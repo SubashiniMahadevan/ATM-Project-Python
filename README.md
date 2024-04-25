@@ -26,7 +26,9 @@ This Python project simulates an ATM (Automated Teller Machine) system. It provi
 ![image](https://github.com/SubashiniMahadevan/ATM-Project-Python/assets/168095179/68a01999-3f86-4f3f-aa3f-74b80c357f28)
 
 
-![image](https://github.com/SubashiniMahadevan/ATM-Project-Python/assets/168095179/45380d14-51fd-4b9b-bf18-2e4d1ef00032)
+
+![image](https://github.com/SubashiniMahadevan/ATM-Project-Python/assets/168095179/76e85fb2-3c4a-42a6-b6b5-d5ca88ce2e34)
+
 
 
 
