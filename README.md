@@ -5,8 +5,6 @@
 This Python project simulates an ATM (Automated Teller Machine) system. It provides options for banking operations such as balance inquiry, withdrawal, and deposit.
 
 ## Features
-
-## Features
 - **User authentication**: Users can log in using their account number and PIN.
 - **Balance inquiry**: Users can check their account balance.
 - **Withdrawal**: Users can withdraw funds from their account.
