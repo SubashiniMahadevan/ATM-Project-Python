@@ -10,7 +10,8 @@ This Python project simulates an ATM (Automated Teller Machine) system. It provi
 - **Withdrawal**: Users can withdraw funds from their account.
 - **Deposit**: Users can deposit funds into their account
 - **Return Card**: Return the ATM Card. 
-
+- **user Input**: When getting input from user -  Value Error and Type Error is handled in Exceptions.
+  
 ![image](https://github.com/SubashiniMahadevan/ATM-Project-Python/assets/168095179/9448f169-e50f-4cc4-a2fd-c7eeb684b0eb)
 
 
